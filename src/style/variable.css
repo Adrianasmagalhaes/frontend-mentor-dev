@@ -1,0 +1,9 @@
+:root{
+    --primary-soft-blue:hsl(215, 51%, 70%);
+    --primary-soft-cyan:hsl(178, 100%, 50%);
+
+    /* neutral */
+    --main-dark:hsl(217, 54%, 11%);
+    --card-dark:hsl(216, 50%, 16%);
+    --line-dark:hsl(215, 32%, 27%);
+}
